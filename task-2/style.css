@@ -1,0 +1,20 @@
+.h1{
+  
+    text-align: center;
+}
+
+.sg{
+    background-color: aliceblue;
+}
+
+.cs{
+    background-color: rgba(215, 219, 223, 0.87);
+}
+
+.p1{
+    font-style: italic;
+}
+
+.p2{
+    font-style: oblique;
+}

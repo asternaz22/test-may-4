@@ -1,0 +1,84 @@
+.button{
+    text-align: center;
+}
+
+.cart{
+    color: aliceblue;
+    background-color: crimson;
+    border: none;
+    font-size: 30px;
+    padding: 15px 35px;
+}
+
+.cart:hover{
+    font-size: 35px;
+
+}
+
+.start{
+    color: #0889ef;
+    background-color: yellow;
+    border-color:#0683e6;
+    border-style: solid;
+    font-style: oblique;
+    font-size: 30px;
+    padding: 15px 35px;
+}
+
+.start:hover{
+    color: yellow;
+    background-color: #0889ef;
+    font-size: 35px;
+}
+
+.login{
+    color: aliceblue;
+    border-style: none;
+    box-sizing: border-box;
+    font-size: 30px;
+    padding: 15px 35px;
+    border-radius: 30px;
+    background-image: linear-gradient(to right, rgb(111, 231, 240), rgb(255, 208, 0));
+}
+
+.login:hover{
+    font-size: 35px;
+}
+
+
+.signup{
+    color: #806ce4;
+    background-color: aliceblue;
+    border-color:#845eca;
+    font-size: 30px;
+    padding: 15px 35px;
+    border-radius: 20px;
+}
+
+.signup:hover{
+    color: seashell;
+    background-color: #806ce4;
+    border: none;
+    font-size: 35px;
+}
+
+.sub{
+    color: mintcream;
+    font-size: 30px;
+    padding: 15px 35px;
+    border-radius: 10px;
+    border-color: orange;
+    background-image: linear-gradient(rgb(255, 196, 0), rgb(255, 145, 0));
+}
+
+.sub:hover{
+    font-size: 35px;
+}
+
+.img{
+    border: none
+}
+.img:hover{
+    background:url(icon-3.png);
+    border: none 
+}
